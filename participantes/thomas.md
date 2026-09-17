@@ -3,10 +3,14 @@ Meu Setor/Responsabilidade no Projeto
 Estou responsável pela parte de segurança do projeto e a parte de testes do projeto. A seguir descreverei como realizarei minha função com exito.
 
 Cibersegurança:
-Meu objetivo é contribuir para a proteção das informações e dos processos da solução, analisando riscos, permissões de acesso e possíveis vulnerabilidades. Em um ambiente que trabalha com informações relacionadas a atendimentos, garantir que os dados sejam acessados somente por pessoas autorizadas é uma preocupação essencial.
+Meu objetivo é contribuir para a proteção das informações e dos processos da solução, analisando riscos, permissões de acesso e possíveis vulnerabilidades.
+ Em um ambiente que trabalha com informações relacionadas a atendimentos, garantir que os dados sejam acessados somente por pessoas autorizadas é uma preocupação essencial.
+
 Dados sensíveis
 Como estarei lidando com dados sensíveis de pacientes, ter total atenção na segurança do projeto se torna algo crucial.
 Utilizando o Microsoft authenticator,Segurança das automações,Controle de acesso por função,etc
+
+
 Resultado esperado: garantir que os usuários tenham acesso somente às informações e funcionalidades necessárias às suas funções, que ações não autorizadas sejam bloqueadas, que as automações operem dentro das permissões definidas e que as atividades relevantes possam ser rastreadas.
 
 Análise de Testes (QA):
