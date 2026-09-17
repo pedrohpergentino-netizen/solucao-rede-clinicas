@@ -19,8 +19,11 @@ Também sou responsável por verificar se as funcionalidades desenvolvidas estã
 minhas responsabilidades:
 
 Elaborar casos e cenários de teste;
+
 Testar os fluxos do SharePoint;
+
 Validar as automações;
+
 Identificar e documentar bugs;
 Realizar testes de permissões e acessos;
 Executar testes funcionais e de integração;
