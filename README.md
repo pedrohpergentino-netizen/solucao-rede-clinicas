@@ -63,11 +63,11 @@ arquivos para facilitar a consulta.
 
 ## Contribuições individuais
 
-- [Pedro — Full Stack e Automações/SharePoint](docs/participantes/pedro.md)
-- [Leticia Analista de Requisitos + Gestor de Projetos](docs/participantes/leticia.md)
-- [Nicolas Banco de Dados + Analista de BI](docs/participantes/nicolas.md)
-- [Thomas QA + Cibersegurança](docs/participantes/thomas.md)
-- [George UX/UI + Acessibilidade](docs/participantes/george.md)
+- [Pedro — Full Stack e Automações/SharePoint](participantes/pedro.md)
+- [Leticia Analista de Requisitos + Gestor de Projetos](participantes/leticia.md)
+- [Nicolas Banco de Dados + Analista de BI](participantes/nicolas.md)
+- [Thomas QA + Cibersegurança](participantes/thomas.md)
+- [George UX/UI + Acessibilidade](participantes/george.md)
 
 ## Postagens do LinkedIn
 
