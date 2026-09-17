@@ -29,6 +29,8 @@ A solução considera funcionalidades relacionadas a
 agendamentos, acompanhamento dos atendimentos, comunicação
 e organização das informações.
 
+Nossa equipe utilizará O Microsoft Sharepoint e algumas automações para facilitar a organização da solução.
+
 Também são consideradas automações para reduzir tarefas
 repetitivas e melhorar o fluxo de trabalho.
 
