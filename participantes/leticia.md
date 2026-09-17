@@ -1,4 +1,4 @@
-Minha participação do projeto.
+Minha função no projeto.
 
 À frente das funções de analista de requisitos e gestão de projetos, fiquei responsável por entender como a 
 clínica funciona, identificar os problemas atuais e transformar as necessidades dos usuários e, também, 
@@ -7,18 +7,18 @@ soluções para uma Rede de Clínicas Populares.
 
 Responsabilidades do Analista de Requisitos: 
 
-• Realizar o Levantamento de Requisitos;
-• Definir as Regras de Tarefas;
-• Observar os Fluxos de Atendimento;
-• Organizar a Documentação do Sistema;
+- Realizar o Levantamento de Requisitos;
+- Definir as Regras de Tarefas;
+- Observar os Fluxos de Atendimento;
+- Organizar a Documentação do Sistema;
 
 E da Gestão de Projetos:
 
-• Criar um Cronograma;
-• Realizar a Divisão de Tarefas;
-• Definir as Prioridades;
-• Fazer o Acompanhamento das Entregas;
-• Exercer o Registro das Decisões.
+- Criar um Cronograma;
+- Realizar a Divisão de Tarefas;
+- Definir as Prioridades;
+- Fazer o Acompanhamento das Entregas;
+- Exercer o Registro das Decisões.
 
 Objetivo das minhas funções:
 
